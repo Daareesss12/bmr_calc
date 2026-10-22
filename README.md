@@ -1,2 +1,2 @@
-# bmr_calc
+# bmr_calculator
 
