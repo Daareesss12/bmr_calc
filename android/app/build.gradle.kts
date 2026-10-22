@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.bmi_calc"
+    namespace = "com.example.bmr_calculator"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
