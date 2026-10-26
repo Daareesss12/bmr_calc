@@ -8,8 +8,10 @@
 ## Screenshots
 
 ### Tampilan
-![Tampilan Kalkulator](screenshoot/tampilan kalkulator.jpeg)
+
+![Tampilan Kalkulatorif](screenshoot/tampilankalkulator.jpeg)
+
 
 ### Hasil Perhitungan
-![Hasil Perhitungan](screenshoot/Hasil perhitungan.jpeg)
 
+![Hasil Perhitungan](screenshoot/Hasilperhitungan.jpeg)
